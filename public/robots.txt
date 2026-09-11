@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /privacy-policies/
+Disallow: /contact-us/
+Disallow: /about-us/
+
+Sitemap: https://www.socrates-gm.com/post-sitemap.xml
+Sitemap: https://www.socrates-gm.com/page-sitemap.xml
+Sitemap: https://www.socrates-gm.com/deals-sitemap.xml
+Sitemap: https://www.socrates-gm.com/hosting-sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "name": "socrates-gm-vercel",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "node scripts/audit.mjs",
+    "test": "node scripts/audit.mjs"
+  }
+}
