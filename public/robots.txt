@@ -8,7 +8,4 @@ Disallow: /privacy-policies/
 Disallow: /contact-us/
 Disallow: /about-us/
 
-Sitemap: https://www.socrates-gm.com/post-sitemap.xml
-Sitemap: https://www.socrates-gm.com/page-sitemap.xml
-Sitemap: https://www.socrates-gm.com/deals-sitemap.xml
-Sitemap: https://www.socrates-gm.com/hosting-sitemap.xml
+Sitemap: https://www.socrates-gm.com/sitemap_index.xml
